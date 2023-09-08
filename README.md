@@ -20,7 +20,7 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
    https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx (турагентсво);
    
-   2 задание Глазки-Save/Общие ресурсы/Введение ПО_G.pdf (глазки save);
+2. Задание Глазки-Save/Общие ресурсы/Введение ПО_G.pdf (глазки save);
 
    https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Описание%20предметной%20области.docx (Свияжские холмы);
 
