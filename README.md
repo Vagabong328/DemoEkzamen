@@ -30,6 +30,6 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 4. Разработать диаграмму вариантов использования системы.
 5. Разработать ER-диаграмму.
 
-![image](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/0dce5863-fd05-4556-a88c-c6352ebbf579)
+![image1](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/d86629d8-14fc-4017-a12b-e83aef2a36c3)
+![фото](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/7e5f30d2-e50b-405f-9c6d-b1f8157e86dc)
 
-![image](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/fe737c4f-b818-4a75-a71d-ada7968d87fe)
