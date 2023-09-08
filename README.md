@@ -29,3 +29,7 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 3. Определить функциональные требования к системе.
 4. Разработать диаграмму вариантов использования системы.
 5. Разработать ER-диаграмму.
+
+![image](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/0dce5863-fd05-4556-a88c-c6352ebbf579)
+
+![image](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/fe737c4f-b818-4a75-a71d-ada7968d87fe)
