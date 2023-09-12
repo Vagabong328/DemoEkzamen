@@ -1,3 +1,5 @@
+![image](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/747a316c-9608-48a7-81d9-c9f0029186bf)
+
 <mxfile host="app.diagrams.net" modified="2023-09-09T09:26:46.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="zHhwL_4eDtq6JKFvOhog" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="js77kOCLIeVqdCSgHPCf">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
