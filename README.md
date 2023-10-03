@@ -34,3 +34,4 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
 ![фото](https://github.com/Vagabong328/DemoEkzamen/assets/97594467/7e5f30d2-e50b-405f-9c6d-b1f8157e86dc)
 
+https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/5%20trueskills/1%20Style
