@@ -42,3 +42,6 @@
 6. таблица
 7. список
 DGusers.ItemsSource = models.Sport_AppEntities1.GetContext().users.ToList();
+
+<BR>CRUD
+CREATE(Создание) UPDATE(Обновить) DELETE(Удалить) 
